@@ -1,0 +1,4 @@
+# 8.16 Imports (d) (Impor): import nama_modul as alias
+import modul_buku as mb
+
+mb.buku_favorit('Laskar Pelangi')
